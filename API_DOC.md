@@ -4,7 +4,7 @@ Modern REST API for managing tasks and subtasks with JWT authentication.
 
 ## Base URL
 
-- Local: `http://localhost:3000`
+- Local: `https://task-management-nodejs-ba46.onrender.com`
 - All endpoints are prefixed with `/api`
 
 ## Authentication
